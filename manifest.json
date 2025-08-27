@@ -1,0 +1,40 @@
+{
+  "id": "/marketing-pro",
+  "name": "Marketing Pro",
+  "short_name": "MktgPro",
+  "description": "Your smart tool for managing and tracking marketing campaigns with ease.",
+  "start_url": "https://app--marketing-pro-e186ea5a.base44.app/Dashboard",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "orientation": "portrait",
+  "dir": "ltr",
+  "lang": "en",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    }
+  ],
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "prefer_related_applications": false,
+  "scope": "/"
+}
