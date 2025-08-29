@@ -29,7 +29,10 @@
     {
       "src": "screenshot1.png",
       "sizes": "1080x1920",
-      "type": "image/png"
+      "type": "image/png",
+      "label": "Mobile dashboard preview",
+      "form_factor": "narrow",
+      "platform": "android"
     }
   ],
   "launch_handler": {
